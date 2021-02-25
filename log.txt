@@ -1,0 +1,5 @@
+commit 7191ccbc979c316c49bc824b05b9adec565dafe8
+Author: Orbis <orbis@huawei_p20_lite-c63d8140d.bsu>
+Date:   Wed Feb 24 14:30:35 2021 +0300
+
+    add .gitignore
